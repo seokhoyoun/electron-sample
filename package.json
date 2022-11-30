@@ -1,0 +1,25 @@
+{
+  "name": "electron-sample",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seokhoyoun/electron-sample.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "seokho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seokhoyoun/electron-sample/issues"
+  },
+  "homepage": "https://github.com/seokhoyoun/electron-sample#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
